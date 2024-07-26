@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yobel Nathaniel Filipus</h1>
-<h3 align="center">A blockchain enthusiast</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yebology&label=Profile%20views&color=0e75b6&style=flat" alt="yebology" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yebology" alt="yebology" /></a> </p>
+<h3 align="center">A Blockchain Enthusiast</h3>
 
 - 🔭 I’ve just finished working on [Crowdfy](https://github.com/yebology/crowdfy-summary.git)
 
@@ -12,6 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/yebology?tab=repositories](https://github.com/yebology?tab=repositories)
 
 - 📫 How to reach me **yobelnathaniel12@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1auDh0GMCO17uL4SHo0j5v1fKaU5Cs74k/view?usp=sharing](https://drive.google.com/file/d/1auDh0GMCO17uL4SHo0j5v1fKaU5Cs74k/view?usp=sharing)
 
 - ⚡ Fun fact **Gacoan's Noodle Enjoyer**
 
