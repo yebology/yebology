@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **yobelnathaniel12@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1auDh0GMCO17uL4SHo0j5v1fKaU5Cs74k/view?usp=sharing](https://drive.google.com/file/d/1auDh0GMCO17uL4SHo0j5v1fKaU5Cs74k/view?usp=sharing)
-
 - ⚡ Fun fact **Gacoan's Noodle Enjoyer**
 
 <h3 align="left">Connect with me:</h3>
