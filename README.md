@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yobel Nathaniel Filipus</h1>
 <h3 align="center">A Blockchain Enthusiast</h3>
 
-- 🔭 I’ve just finished working on [Crowdfy](https://github.com/yebology/crowdfy-summary.git)
-
 - 🌱 I’m currently learning **Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yebology?tab=repositories](https://github.com/yebology?tab=repositories)
