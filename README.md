@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Blockchain Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yebology?tab=repositories](https://github.com/yebology?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/yebology/portfolio)
 
 - 📫 How to reach me **yobelnathaniel12@gmail.com**
 
