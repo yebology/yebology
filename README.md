@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yobel Nathaniel Filipus</h1>
-<h3 align="center">A Blockchain Enthusiast</h3>
+<h3 align="center">A Smart Contract Dev</h3>
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently learning **Smart Contract Development**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/yebology/portfolio)
+- 👨‍💻 All of my projects are available at [here](yebology-portfolio.vercel.app)
 
 - 📫 How to reach me **yobelnathaniel12@gmail.com**
 
