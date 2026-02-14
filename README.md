@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Smart Contract Development**
 
-- 👨‍💻 All of my projects are available at [here](yebology-portfolio.vercel.app)
+- 👨‍💻 All of my projects are available at [here](https://yebology-portfolio.vercel.app)
 
 - 📫 How to reach me **yobelnathaniel12@gmail.com**
 
